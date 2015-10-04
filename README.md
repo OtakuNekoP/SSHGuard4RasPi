@@ -1,7 +1,7 @@
 SSHGuard4RasPi
 ==============
 
-This is a simple bash script for Raspberry Pi to defend it from SSH floods, but it can also run on most Linux platforms (I wrote it specifically for my Raspberry Pi, so I named it SSHGuard4RasPi :D ).
+This is a simple bash script for Raspberry Pi to defend it from SSH floods, but it can also run on most Linux platforms (I wrote it specifically for my Raspbain running on Banana Pi M2, so I named it SSHGuard4RasPi :D ).
  
 
 It must be run under root access to allow it to append new rules into iptables. 
